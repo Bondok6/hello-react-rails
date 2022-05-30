@@ -1,24 +1,58 @@
-# README
+# Budget app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Built "Hello world" project with rails-react gem to implement a connection between a Ruby on Rails back-end and React front-end.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
+- React.js
+- Postgresql
 
-* System dependencies
+## Live Demo
 
-* Configuration
+[Live Demo Link](https://kb-budge-appp.herokuapp.com/)
 
-* Database creation
+## Getting Started
 
-* Database initialization
+### Clone this repository
 
-* How to run the test suite
+```bash
+git@github.com:bodnok6/hello-react-rails.git
+cd hello-react-rails
+```
+### Install gems
+```bash
+bundle install
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+### Install dependencies
+```bash
+npm install
+```
 
-* Deployment instructions
+### Setup database
+```bash
+rails db:create
+rails db:migrate
+rails db:seeds
+```
 
-* ...
+### Start server
+```bash
+rails s
+```
+
+## Authors
+
+👤 **Kyrillos Hany**
+
+- GitHub: [@Bondok6](https://github.com/Bondok6)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
