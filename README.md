@@ -2,6 +2,8 @@
 
 > Built "Hello world" project with rails-react gem to implement a connection between a Ruby on Rails back-end and React front-end.
 
+https://user-images.githubusercontent.com/45231276/171066060-f5590d10-6c39-43aa-8b84-8317d0071902.mp4
+
 ## Built With
 
 - Ruby on Rails
