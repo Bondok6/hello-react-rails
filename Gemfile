@@ -8,12 +8,12 @@ gem 'jbuilder'
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 gem 'rails', '~> 7.0.3'
+gem 'react-rails'
 gem 'rubocop', '>= 1.0', '< 2.0'
 gem 'sprockets-rails'
 gem 'stimulus-rails'
 gem 'turbo-rails'
 gem 'tzinfo-data'
-gem 'react-rails'
 gem 'webpacker'
 
 group :development, :test do
