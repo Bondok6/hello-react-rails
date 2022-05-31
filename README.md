@@ -10,10 +10,6 @@ https://user-images.githubusercontent.com/45231276/171066060-f5590d10-6c39-43aa-
 - React.js
 - Postgresql
 
-## Live Demo
-
-[Live Demo Link](https://kb-budge-appp.herokuapp.com/)
-
 ## Getting Started
 
 ### Clone this repository
